@@ -11,4 +11,4 @@ package = "@netlify/plugin-sitemap"
 [[headers]]
   for = "/*"
   [headers.values]
-    Feature-Policy: microphone '*'; camera '*'
+    Feature-Policy =  "microphone '*'; camera '*';"
