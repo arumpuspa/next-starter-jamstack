@@ -6,6 +6,8 @@ const Home = () => (
     <h1>Next.js on the [JAMstack](https://jamstack.org)</h1>
 
     <h3>Hooray 🎉 - you've built this with <a href="https://nextjs.org">Next.js</a>!</h3>
+  
+  <iframe src="https://supportsolution.s3-ap-southeast-1.amazonaws.com/videoRecord/components/audio-video-store.html" title="W3Schools Free Online Web Tutorials"></iframe>
 
     <style jsx>{`
       :global(html,body) {
